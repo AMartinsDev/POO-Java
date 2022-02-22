@@ -1,2 +1,2 @@
 # POO-Java
-Repositório para programação orientada a objetos.
+Repository of some projects and activities in java.

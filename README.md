@@ -1,2 +1,3 @@
 # POO-Java
-Repositório da matéria de POO - Ifba
+Repository of some projects and activities in java.
+

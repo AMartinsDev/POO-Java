@@ -1,4 +1,4 @@
-package projetopequsadores;
+
 
 public class Professor extends Pesquisador {
 

@@ -1,5 +1,5 @@
 
-public class QuestaoSubstring {
+public class AchandoParesSubstring {
 
     public void retornoSubstrings(String palavra){
     	
@@ -30,7 +30,7 @@ public class QuestaoSubstring {
 
         String palavra = "ovo";
         
-        QuestaoSubstring x = new QuestaoSubstring();
+        AchandoParesSubstring x = new AchandoParesSubstring();
         x.retornoSubstrings(palavra);
 
     }

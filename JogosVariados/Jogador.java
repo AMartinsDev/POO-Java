@@ -1,4 +1,4 @@
-package Jogos;
+
 
 public class Jogador {
 	private String nome;

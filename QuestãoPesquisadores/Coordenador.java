@@ -1,4 +1,4 @@
-package projetopequsadores;
+
 
 public class Coordenador extends Pesquisador{
 

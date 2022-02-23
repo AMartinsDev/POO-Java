@@ -4,7 +4,6 @@
 //Professor: Manoel Carvalho
 //Período: 2021.2
 
-package provaQuestao1;
 
 public class ConversaoDeUnidadesDeArea {
 	

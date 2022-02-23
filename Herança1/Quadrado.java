@@ -1,4 +1,4 @@
-package exemploheranca;
+
 
 public class Quadrado extends FormaGeometrica{
 	private Ponto a;

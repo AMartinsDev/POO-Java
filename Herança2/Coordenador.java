@@ -1,4 +1,3 @@
-package heranca;
 
 public class Coordenador extends Pessoa{
 	

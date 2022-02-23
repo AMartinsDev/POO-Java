@@ -1,4 +1,4 @@
-package exemploheranca;
+
 
 public class Circulo extends FormaGeometrica{
 	private Ponto a;

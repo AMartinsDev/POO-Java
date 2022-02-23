@@ -1,4 +1,4 @@
-package LABXI;
+	
 
 public class Conta {
 	private int numero;

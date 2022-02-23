@@ -4,7 +4,7 @@
 //Professor: Manoel Carvalho
 //Período: 2021.2
 
-package provaQuestao2;
+
 
 public class Aluno {
 	

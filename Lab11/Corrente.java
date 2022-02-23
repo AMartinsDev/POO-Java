@@ -1,4 +1,3 @@
-package LABXI;
 
 public class Corrente extends Conta{
 

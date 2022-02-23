@@ -1,4 +1,4 @@
-package Jogos;
+
 
 import java.awt.EventQueue;
 
